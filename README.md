@@ -41,7 +41,7 @@
 | Week 05 | Season 1 - 공통 CS 압축 | Software Engineering / Design Pattern | COMMON-161 ~ COMMON-200 | OOP, SOLID, Design Pattern, Layered Architecture, 테스트, 좋은 코드 구조, 시스템 설계 기초 |
 | Week 06 | Season 2 - 직무별 심화 | Role-Based Interview 1 | ROLE-001 ~ ROLE-040 | 희망 직무별 핵심 질문 선정 및 답변 작성. Backend, Cloud/DevOps, Frontend, Data/AI 등 각자 직무에 맞는 질문 대비 |
 | Week 07 | Season 2 - 직무별 심화 | Role-Based Interview 2 | ROLE-041 ~ ROLE-080 | 직무별 상세 질문, 기술 선택 이유, 트레이드오프, 직무 적합성 중심 답변 정리 |
-| Week 08 | Season 2 - 프로젝트/포트폴리오 면접 | Project-Based Interview | PROJECT-001 ~ PROJECT-040 | 프로젝트 구조, 본인 역할, 기술적 의사결정, 트러블슈팅, 성능 개선, 장애 대응, CS 개념과 프로젝트 연결 |
+| Week 08 | Season 2 - 프로젝트/포트폴리오 | Project-Based Interview | PROJECT-001 ~ PROJECT-040 | 프로젝트 구조, 본인 역할, 기술적 의사결정, 트러블슈팅, 성능 개선, 장애 대응, CS 개념과 프로젝트 연결 |
 
 
 진행 상황에 따라 특정 주제는 2주 이상 다룰 수 있으며, 참여자들의 필요에 따라 추가 주차를 운영할 수 있습니다.
